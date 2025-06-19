@@ -9,7 +9,7 @@ Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown in
 <img src="https://github.com/tetrotibo/artalogue/blob/main/screenshots/a_dashboard_01.png?raw=true" style="max-width: 100%;" alt="Artalogue Screenshot">
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dummy-link">
+  <a href="https://youtu.be/oWaQtiWcv1M?si=iIUJKlknEQZAlatv">
     <img src="https://img.shields.io/badge/VIDEO%20DEMO-5c7fa3?style=for-the-badge&logo=youtube&logoColor=white" alt="VIDEO DEMO">
   </a>
 </p>
