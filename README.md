@@ -2,7 +2,7 @@
 
 Artalogue is a FileMaker-based utility developed to assist artists and gallery owners in cataloging artworks and streamlining the listing process on platforms like Etsy.
 
-As a designer with both technical and artistic sensibilities, I needed a way to organize detailed painting metadata and transfer it efficiently into e-commerce platforms. Existing solutions felt either too generic or too inflexible, so I designed Artalogue as a semi-automated bridge between a clean structured database and the Etsy listing form.
+As a designer with both technical and artistic sensibilities, I needed a way to organize detailed painting metadata and transfer it efficiently into e-commerce platforms. Existing solutions felt either too generic or too inflexible so I designed Artalogue as a semi-automated bridge between a clean structured database and the Etsy listing form.
 
 Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown inputs and form automation tools to simplify the workflow of publishing an artwork online.
 
@@ -12,9 +12,9 @@ The user begins by manually encoding essential artwork attributes into Artalogue
 
 During this process, Artalogue also generates a unique product serial number for each artwork. The serial is automatically built based on the creation date and the painting technique used, allowing for fast identification and internal tracking.
 
-Once encoding is complete, the user triggers a semi-automatic syncing procedure. Artalogue then transfers the data into the appropriate fields of the Etsy listing form via scripted automation, reducing the risk of typos and saving time. The syncing process supports formatting adjustments where necessary to meet Etsy’s character limits and input expectations.
+Once encoding is complete, the user triggers a semi-automatic syncing procedure. Artalogue then transfers the data into the appropriate fields of the Etsy listing form via scripted automation, reducing the risk of typos and saving time. In addition to textual metadata, Artalogue also uploads the selected artwork images and video previews directly to the listing, avoiding the need for manual media uploads. The syncing process supports formatting adjustments where necessary to meet Etsy’s character limits and input expectations.
 
-The overall goal is to retain full control of metadata entry while eliminating the tedious copy-paste process between database and web browser.
+The overall goal is to retain full control of metadata entry while eliminating the tedious copy-paste process between database, media folders and web browser.
 
 ## Screenshots
 
@@ -27,17 +27,16 @@ xxx
 ## Built With
 
 - FileMaker Pro 19 – custom database application
-- Scripting Engine – for triggering sync behavior
-- macOS Automation – compatibility with browser actions (tested with Safari)
-- Manual data entry UX – dropdown lists, editable fields and custom value lists
+- MBS plugin (MonkeyBread Software)
+- JavaScript
+- AppleScript
 
 ## Features
 
 - Artwork metadata encoding with dropdown-driven consistency
 - Automatic generation of unique serial numbers based on technique and creation date
-- Semi-automated Etsy listing population
-- Support for price formatting and multi-field syncing
-- Easily extensible structure for other marketplaces or metadata types
+- Semi-automated Etsy listing population including image and video uploads
+- Media manager with custom export resolutions and formats
 - Visual clarity and fast onboarding for artists and non-tech-savvy users
 
 ## Licensing
