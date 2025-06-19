@@ -6,7 +6,13 @@ As a designer with both technical and artistic sensibilities, I needed a way to 
 
 Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown inputs and form automation tools to simplify the workflow of publishing an artwork online.
 
+<img src="https://github.com/tetrotibo/artalogue/blob/main/screenshots/a_dashboard_01.png?raw=true" style="max-width: 100%;" alt="Artalogue Screenshot">
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dummy-link">
+    <img src="https://img.shields.io/badge/VIDEO%20DEMO-5c7fa3?style=for-the-badge&logo=youtube&logoColor=white" alt="VIDEO DEMO">
+  </a>
+</p>
 
 ## Project Presentation
 
@@ -17,10 +23,6 @@ During this process, Artalogue also generates a unique product serial number for
 Once encoding is complete, the user triggers a semi-automatic syncing procedure. Artalogue then transfers the data into the appropriate fields of the Etsy listing form via scripted automation, reducing the risk of typos and saving time. In addition to textual metadata, Artalogue also uploads the selected artwork images and video previews directly to the listing, avoiding the need for manual media uploads. The syncing process supports formatting adjustments where necessary to meet Etsy’s character limits and input expectations.
 
 The overall goal is to retain full control of metadata entry while eliminating the tedious copy-paste process between database, media folders and web browser.
-
-## Video Demo
-
-xxx
 
 ## Built With
 
@@ -38,6 +40,5 @@ xxx
 - Visual clarity and fast onboarding for artists and non-tech-savvy users
 
 ## Licensing
-
-- FileMaker file, screenshots and demo video are all original works and protected.
-- See [LICENSE](./LICENSE) for details regarding code and media usage rights.
+Application, screenshots and demo video are all original works and protected.  
+See [LICENCE.txt](https://github.com/tetrotibo/artalogue/blob/main/LICENCE.txt) for details regarding code and media usage rights.
