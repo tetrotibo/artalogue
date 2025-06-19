@@ -1,8 +1,8 @@
 # ARTALOGUE | Etsy Cataloging & Upload Assistant
 
-Artalogue is a FileMaker-based utility developed to assist artists and gallery owners in cataloging artworks and streamlining the listing process on platforms like Etsy.
+Artalogue is a FileMaker-based utility developed to assist artists and gallery owners in cataloging artworks and streamlining the listing process on Etsy.
 
-As a designer with both technical and artistic sensibilities, I needed a way to organize detailed painting metadata and transfer it efficiently into e-commerce platforms. Existing solutions felt either too generic or too inflexible so I designed Artalogue as a semi-automated bridge between a clean structured database and the Etsy listing form.
+Artalogue is a semi-automated bridge between a clean structured database and the Etsy listing form: it organizes user-encoded painting metadata and medias and syncs then with the platform. 
 
 Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown inputs and form automation tools to simplify the workflow of publishing an artwork online.
 
