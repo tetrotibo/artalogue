@@ -14,7 +14,7 @@ Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown in
   </a>
 </p>
 
-## Project Presentation
+## Application Presentation
 
 The user begins by manually encoding essential artwork attributes into Artalogue's database. These include painting style, title, price, creation date, dominant colors, shape, canvas material and more. This step ensures that every piece is described with precision and consistency.
 
@@ -41,4 +41,4 @@ The overall goal is to retain full control of metadata entry while eliminating t
 
 ## Licensing
 Application, screenshots and demo video are all original works and protected.  
-See [LICENCE.txt](https://github.com/tetrotibo/artalogue/blob/main/LICENCE.txt) for details regarding code and media usage rights.
+See [LICENCE](https://github.com/tetrotibo/artalogue/blob/main/LICENCE.txt) for details regarding code and media usage rights.
