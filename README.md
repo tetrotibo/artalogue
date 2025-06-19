@@ -1,4 +1,4 @@
-# ARTALOGUE | Artwork Cataloging & Etsy Listing Assistant
+# ARTALOGUE | Etsy Cataloging & Upload Assistant
 
 Artalogue is a FileMaker-based utility developed to assist artists and gallery owners in cataloging artworks and streamlining the listing process on platforms like Etsy.
 
