@@ -41,4 +41,4 @@ The overall goal is to retain full control of metadata entry while eliminating t
 
 ## Licensing
 Application, screenshots and demo video are all original works and protected.  
-See [LICENCE](https://github.com/tetrotibo/artalogue/blob/main/LICENCE.txt) for details regarding code and media usage rights.
+See [LICENSE](https://github.com/tetrotibo/artalogue/blob/main/LICENSE.txt) for details regarding code and media usage rights.
