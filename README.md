@@ -14,7 +14,7 @@ Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown in
   </a>
 </p>
 
-## Application Presentation
+## Encoding & Syncing Mechanics
 
 The user begins by manually encoding essential artwork attributes into Artalogue's database. These include painting style, title, price, creation date, dominant colors, shape, canvas material and more. This step ensures that every piece is described with precision and consistency.
 
