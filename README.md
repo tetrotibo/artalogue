@@ -2,7 +2,7 @@
 
 Artalogue is a FileMaker-based utility developed to assist artists and gallery owners in cataloging artworks and streamlining the listing process on Etsy.
 
-Artalogue is a semi-automated bridge between a clean structured database and the Etsy listing form: it organizes user-encoded painting metadata and medias and syncs then with the platform. 
+Artalogue is a semi-automated bridge between a clean structured database and the Etsy listing form: it organizes user-encoded painting metadata and medias and syncs them with the platform.
 
 Built with FileMaker Pro 19, it combines precise encoding, intuitive dropdown inputs and form automation tools to simplify the workflow of publishing an artwork online.
 
@@ -26,19 +26,19 @@ The overall goal is to retain full control of metadata entry while eliminating t
 
 ## Built With
 
-- FileMaker Pro 19 – custom database application
-- MBS plugin (MonkeyBread Software)
-- JavaScript
-- AppleScript
+- FileMaker Pro 19 – for building the custom database interface and logic  
+- MBS plugin (MonkeyBread Software) – to extend FileMaker’s automation and scripting features  
+- JavaScript – for interacting with web elements in the Etsy form  
+- AppleScript – to simulate user keystrokes so the HTML form registers inputs as manually typed
 
 ## Features
 
-- Artwork metadata encoding with dropdown-driven consistency
-- Automatic generation of unique serial numbers based on technique and creation date
-- Semi-automated Etsy listing population including image and video uploads
-- Media manager with custom export resolutions and formats
+- Artwork metadata encoding with dropdown-driven consistency  
+- Automatic generation of unique serial numbers based on technique and creation date  
+- Semi-automated Etsy listing population including image and video uploads  
+- Media manager with custom export resolutions and formats  
 - Visual clarity and fast onboarding for artists and non-tech-savvy users
 
-## Licensing
+## Licensing  
 Application, screenshots and demo video are all original works and protected.  
-See [LICENSE](https://github.com/tetrotibo/artalogue/blob/main/LICENSE.txt) for details regarding code and media usage rights.
+See [LICENSE](https://github.com/tetrotibo/artalogue/blob/main/LICENSE.txt) for details regarding code an
